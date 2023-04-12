@@ -25,3 +25,20 @@ img {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+#tribute-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+ul,
+cite {
+  width: 35%;
+  font-size: 18px;
+}
+
+li {
+  margin-bottom: 15px;
+}
